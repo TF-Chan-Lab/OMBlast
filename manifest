@@ -1,0 +1,2 @@
+Main-Class: aldenjava.opticalmapping.mapper.omblastmapper.OMBlastMapper
+Class-Path: lib/jopt-simple-4.5.jar lib/org.apache.commons.lang_2.4.0.v201005080502.jar lib/commons-math3-3.0.jar lib/commons-io-2.4.jar
