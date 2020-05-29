@@ -1,5 +1,7 @@
 OMBlast
 ================
+**!!! NOTE: the latest OMBlast has been integrated into [OMTools](https://github.com/TF-Chan-Lab/OMTools). Please download/clone OMBlast from [OMTools](https://github.com/TF-Chan-Lab/OMTools) !!!**
+
 An alignment tool for optical mapping data
 
 Please refer to "OMBlastManual.pdf" for more details. 
